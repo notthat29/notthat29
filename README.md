@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+Computer Engineering Student
+Electrical and Electronics Engineering Institute
+University of the Philippines, Diliman
+
+- 🔭 I’m currently working on RISC-V IMC Multi-core Implementation with Split L1 cache and Shared L2 Cache
 <!--
 **notthat29/notthat29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

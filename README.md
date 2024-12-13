@@ -1,8 +1,11 @@
-## Hi there 👋
+# Hi there 👋
 
 Computer Engineering Student
+
 Electrical and Electronics Engineering Institute
+
 University of the Philippines, Diliman
+
 
 - 🔭 I’m currently working on RISC-V IMC Multi-core Implementation with Split L1 cache and Shared L2 Cache
 <!--
